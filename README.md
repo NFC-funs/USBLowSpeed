@@ -3,7 +3,7 @@ Jieli AD15n For Low Speed USB Device
 
 1. Introduction
 
-      I want to design the lowest cost USB NFC Reader&Writer, then I found Jieli AD15n:
+      I want to design the lowest cost USB NFC Reader&Writer, then I found Jieli AD15n(it's price is only ￥1.0,about $0.15):
 
       https://github.com/Jieli-Tech/fw-AD15N
 
